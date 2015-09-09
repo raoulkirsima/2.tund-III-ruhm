@@ -39,3 +39,13 @@
 	echo "õnne!"
 
 ?>
+<br>
+<?php
+
+	//trüki välja kuupäev kujul: nädalapäev, kuupäev, kuu, aasta
+	echo date ("l, j. F, Y, e")
+
+
+
+
+?>
